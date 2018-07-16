@@ -99,10 +99,10 @@
 
 /*data_content部分*/
 .data_content{
-	margin-top: 16px;
+	margin-top: 38px;
 }
 .data_l{
-	width: 240px;
+	width: 260px;
 	height: 270px;
 }
 .data_l .data_title{
@@ -200,7 +200,7 @@
 	position: relative;
 	margin-left: 16px;
 	width: 560px;
-	height: 300px;
+	height: 260px;
 	border: 1 solid #CCCCCC;
 }
 
@@ -459,6 +459,7 @@
 
 #writer_msg{
 	width: 980px;
+	margin-top: 90px;
 }
 
 .writer_msg .mgs_left{
